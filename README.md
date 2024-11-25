@@ -13,12 +13,5 @@ This project will employ a user-centered design approach, involving stakeholder 
 The redesigned website is expected to significantly improve student engagement, measured by increased website traffic, reduced bounce rates, and enhanced user satisfaction. Additionally, the website will meet accessibility standards, ensuring equal access to information for students with disabilities. The project will also provide a robust content management system (CMS) for easy maintenance and updates, reducing the administrative burden on college staff.
 
 ## Keywords: 
-> College website redesign
-> user-centered design
-> responsive design
-> accessibility
-> WCAG 2.1
-> SEO
-> student engagement
-> inclusive online experience
+College website redesign,user-centered design,responsive design,accessibility,WCAG 2.1,SEO,student engagement,inclusive online experience
 
